@@ -41,5 +41,4 @@ Screenshots of the final output can be found in the folder:
 ## ✅ Status
 
 ✔️ Functional basic version complete  
-🔜 Will expand after learning full CSS
 
